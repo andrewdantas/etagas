@@ -1,2 +1,2 @@
 # etagas
-Cálculo do combustível mais vantajoso
+Cálculo do combustível mais vantajoso.
